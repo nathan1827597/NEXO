@@ -41,17 +41,17 @@ global.apiSimpelBot = "simplebotz85"
 global.shopepay = "Tidak Tersedia"
 global.dana = "08974669276"
 global.ovo = "Tidak Tersedia"
-global.gopay = "083176793414"
+global.gopay = "Tidak Tersedia"
 
 // Settings Image Url
 global.image = {
-menu: "https://files.catbox.moe/fszmhf.jpg", 
+menu: "https://files.catbox.moe/t9o5js.jpg", 
 reply: "https://files.catbox.moe/fszmhf.jpg", 
 logo: "https://files.catbox.moe/fszmhf.jpg", 
-dana: "https://img102.pixhost.to/images/79/556578147_biyu.jpg", 
-ovo: "https://img102.pixhost.to/images/79/556578147_biyu.jpg", 
-gopay: "https://img102.pixhost.to/images/79/556578147_biyu.jpg", 
-qris: "https://files.catbox.moe/qjhbf9.jpg"
+dana: "https://files.catbox.moe/ofpn42.jpg", 
+ovo: "https://files.catbox.moe/ofpn42.jpg", 
+gopay: "https://files.catbox.moe/ofpn42.jpg", 
+qris: "https://files.catbox.moe/ofpn42.jpg"
 }
 
 // Settings Api Panel Pterodactyl
